@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on uni projects
-- 🌱 I’m currently learning angular and spring
+- 🌱 I’m currently learning gururururu
 - 👯 I’m looking to collaborate on anything, i want to learn
-- 🤔 I’m looking for help with ways to correctly use github and git
-- 💬 Ask me about anything, idk
+- 🤔 I’m looking for help with internships, and everything else
+- 💬 Ask me about anything
 - 📫 How to reach me: calliventura3@gmail.com
-- ⚡ Fun fact: i tend to forget simple stuff
+- ⚡ Fun fact: 11k mmr dota 2(2025)
